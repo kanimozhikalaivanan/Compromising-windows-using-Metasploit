@@ -47,7 +47,7 @@ Check the status of apache2
 
 Invoke msfconsole:
 ## OUTPUT:
-<img width="716" height="760" alt="image" src="https://github.com/user-attachments/assets/6197b2ed-fd88-4a60-9aa5-0009dce61bd1" />
+<img width="835" height="552" alt="sss" src="https://github.com/user-attachments/assets/e8e49caf-214b-436a-8d60-98dd49ac192f" />
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 ## OUTPUT:
